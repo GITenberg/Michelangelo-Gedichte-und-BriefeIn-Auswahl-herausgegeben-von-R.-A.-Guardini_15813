@@ -1,0 +1,61 @@
+_repo: Michelangelo-Gedichte-und-BriefeIn-Auswahl-herausgegeben-von-R.-A.-Guardini_15813
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Jacobson, Bettina
+    gutenberg_agent_id: '26363'
+    url: http://www.gutenberg.org/2009/agents/26363
+  - agent_name: Witte, Johann Heinrich Friedrich Karl
+    birthdate: 1800
+    deathdate: 1883
+    gutenberg_agent_id: '26365'
+    url: http://www.gutenberg.org/2009/agents/26365
+    wikipedia: http://de.wikipedia.org/wiki/Johann_Heinrich_Friedrich_Karl_Witte
+  - &id001
+    agent_name: Guardini, Romano
+    birthdate: 1885
+    deathdate: 1968
+    gutenberg_agent_id: '26362'
+    url: http://www.gutenberg.org/2009/agents/26362
+    wikipedia: http://en.wikipedia.org/wiki/Romano_Guardini
+  - agent_name: Hasenclever, Sophie
+    gutenberg_agent_id: '26364'
+    url: http://www.gutenberg.org/2009/agents/26364
+  - agent_name: Grasberger, Hans
+    gutenberg_agent_id: '26366'
+    url: http://www.gutenberg.org/2009/agents/26366
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Michelangelo Buonarroti
+    alias: Buonarroti, Michelangelo
+    birthdate: 1475
+    deathdate: 1564
+    gutenberg_agent_id: '3463'
+    url: http://www.gutenberg.org/2009/agents/3463
+    wikipedia: http://en.wikipedia.org/wiki/Michelangelo
+  editor: *id001
+description: ''
+gutenberg_bookshelf:
+- Art
+- DE Lyrik
+gutenberg_issued: '2005-05-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15813'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Artists -- Correspondence'
+- !lcsh 'Italian poetry -- 16th century -- Translations into German'
+- !lcc 'PQ'
+- !lcsh 'Michelangelo Buonarroti, 1475-1564. Correspondence'
+- !lcc 'N'
+title: 'Michelangelo Gedichte und Briefe
+
+  In Auswahl herausgegeben von R. A. Guardini'
+url: http://www.gutenberg.org/ebooks/15813
